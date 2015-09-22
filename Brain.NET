@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version = "1.0">
+<category>
+<pattern>WHAT IS GOOGLE*</pattern>
+<template>it is a search engine used for web search, video search, email, and many other things.</template>
+</category>
+<category>
+<pattern>WHAT IS THE SPEED OF LIGHT*</pattern>
+<template>the speed of light is approximately 3,000 feet per second</template>
+</category>
+</aiml>
